@@ -79,3 +79,6 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 ### Apresentações
 * [Campus Party 7 (São Paulo - 2014)](http://www.youtube.com/watch?v=LAo2wK1KsX8)
 
+## Impressoras do Laboratório 
+* [Prusa I2](https://github.com/orivaldosantana/impressoras-3d/blob/master/README_Prusa_I2.md)
+* [Graber I3](https://github.com/orivaldosantana/impressoras-3d/blob/master/README_Graber.md)
