@@ -41,16 +41,8 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * Firmware: 
   * Marlin (Executa as operações do arquivo “.gcode”);
 
-## Custo de Montagem 
-* [Prusa Mendel em 2014 (Total aproximado 1200,00)](https://docs.google.com/spreadsheet/ccc?key=0Aq1bkwK2Std3dG50SGVqXzRkTmpGY3doUWV3M1BVV1E&usp=sharing) 
-
-## Fotos 
-* [Prusa Mendel](https://plus.google.com/u/0/photos/+OrivaldoSantanaJr/albums/5871204288076817873)
 
 ## Referências
-
-### Modelos de Impressoras
-* Impressora Prusa Mendel, http://reprap.org/wiki/Prusa_Mendel/pt 
 
 ### Tutorial de Auto-Nivelamento da Mesa 
 * [3D Printing](http://www.3dprinting.com.br/dicas-e-tutoriais/tutorial-de-implementacao-de-bed-auto-leveling-bal/)
@@ -78,8 +70,7 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 ### Fornecedores no Brasil 
 * [Sethi 3D](http://www.sethi3d.com.br/hotend-bico-inox-sethi3d)
 
-### Forum de discussão no Brasil:
-
+### Forum de discussão no Brasil
 * [Grupo de email - RepRapBR](https://groups.google.com/forum/#!forum/reprapbr)
 
 ### Gerenciamento via Wi-Fi
