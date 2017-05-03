@@ -42,6 +42,10 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
   * Marlin (Executa as operações do arquivo “.gcode”);
 
 
+## Montagem 
+### RAMPs 1.4
+* Colocar jumpers para os *drivers* do eixo X, Y e X, mas não para o Extrusor. 
+
 ## Referências
 
 ### Tutorial de Auto-Nivelamento da Mesa 
