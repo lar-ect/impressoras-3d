@@ -84,6 +84,9 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 ### Gerenciamento via Wi-Fi
 * [Tutorial controlando a impressão wi-fi com OctoPrint](https://groups.google.com/forum/#!topic/reprapbr/eJrmM_aRh9s)
 
+### Cola para mesa 
+* Uso de laquê, http://blog.render.com.br/diversos/impressao-3d-fixador-de-cabelo-cola-ou-nada/ 
+
 ### Apresentações
 * [Campus Party 7 (São Paulo - 2014)](http://www.youtube.com/watch?v=LAo2wK1KsX8)
 
