@@ -22,6 +22,7 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * 5x Drivers A4988 
 * Correias GT2 2m + 2x polias 
 * 1x Hotend (p/ 1.75 mm) 
+* 1x Extrusor [Bloco de Alumínio](https://pt.aliexpress.com/item/Free-Shipping-MK8-extruder-aluminum-block-DIY-kit-Makerbot-dedicated-single-nozzle-extrusion-head-aluminum-block/32639948788.html) 
 * 3x switches / endstops
 * 2x Rolamentos 608zz 
 * 1x Fonte industrial 350W / 12V / 30A 
