@@ -65,12 +65,17 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * Modelo i3 MakerFarm: http://www.makerfarm.com/index.php/build-instructions/ 
 * Graber i3: https://github.com/sgraber/Graber 
 
+### Peças 
+
+* Repositório oficial Prusa i3: https://github.com/josefprusa/Prusa3-vanilla 
+
 ### Configuração 
 
 * Caculadora Prusa: http://www.prusaprinters.org/calculator/ 
 
 ### Impressoras prontas ou kits de montagem
 
+* Prusa i3, oficial: 
 * Prusa Mendel: http://www.3dmachine.com.br/kits.html;
 * Prusa Air: http://www.sethi3d.com.br/categoria/impressora-3d.html;
 * Modelo Comercial (Baseado na Prusa): http://metamaquina.com.br/;
