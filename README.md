@@ -7,7 +7,6 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 * Bico aquecido
   * [Aliexpress - J-head Hotend](https://www.aliexpress.com/item/3D-Printer-All-metal-J-head-Hotend-with-Cooling-Fan-PTFE-Tubing-for-1-75MM-E3D/32705472496.html?spm=2114.13010608.0.0.vGe41u)
 * Frames i3 e outras
-  * [Imprimindo 3D](http://imprimindo3d.lojaintegrada.com.br) 
   * [Fabrica de Produtos](https://www.facebook.com/fabricadeprodutos/)   
 * Guias lineares
   * [Só Bronze - Recife](http://www.sobronze.com.br/) 
