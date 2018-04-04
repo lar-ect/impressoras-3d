@@ -40,6 +40,7 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
   * Pronterface (Carregar o arquivo “.gcode”, as instruções de operação da impressora);
 * Firmware: 
   * Marlin (Executa as operações do arquivo “.gcode”);
+  
 
 
 ## Montagem 
@@ -71,7 +72,8 @@ Este repositório tem o objetivo de organizar alguns informações sobre a const
 
 ### Configuração 
 
-* Caculadora Prusa: http://www.prusaprinters.org/calculator/ 
+* Caculadora Prusa: http://www.prusaprinters.org/calculator/
+* Configuração visual do Marlin: https://github.com/akaJes/marlin-config  
 
 ### Impressoras prontas ou kits de montagem
 
